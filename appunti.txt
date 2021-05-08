@@ -1,0 +1,4 @@
+Cognome: Dini
+Nome: Viola
+Sport preferito: Pallavolo
+Colore preferito: Viola
